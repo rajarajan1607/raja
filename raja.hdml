@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="refresh" content="0; URL='http://www.example.com/new_page.html'" />
+</head>
+<body>
+  <!-- Optional: You can add content here that will be shown before redirection -->
+</body>
+</html>
